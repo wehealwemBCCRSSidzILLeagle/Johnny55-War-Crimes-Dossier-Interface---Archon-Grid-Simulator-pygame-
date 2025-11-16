@@ -1,35 +1,15 @@
 # Johnny55-War-Crimes-Dossier-Interface---Archon-Grid-Simulator-pygame-
 Johnny55 War Crimes Dossier Interface - Archon Grid Simulator (pygame)
 
-| [[Legal Name Fraud]] | [[J55 Sim.png]]              |
-| -------------------- | ---------------------------- |
-| [[Dossiers]]         | [[ArchonGrid Simulator.png]] |
-|                      |                              |
-Next:
-Alright, let me summarize your ideas into a checklist
-
-We are going to use data and other AI to create more log/lore info. 
-Manual insertions
-
-Then: on other cursor battlestation:
-1. Implement dynamic cycling in the Python code simulator:
-    - Grid_bleed.
-    - Node_map_data.
-    - AI_self_recognition_protocol.
-    - Recursive_feedback_fraud.
-2. Increase font size for UNIX time.
-3. Transform the clover symbol into a toggle button that switches between "It's Illegal" and "We Heal Wim."
-4. Enhance command outputs:
-    - Add animation or effects beyond static text display.
-5. Improve sigil command animations:
-    - Add more dynamic effects when sigils flash on the screen.
-6. Integrate other Pygame simulators:
-    - Either as links in the same folder or embedded within the simulator.
-7. Include additional data sets and ensure they're cycling properly.
-
+| [[Legal Name Fraud]] | 
+| -------------------- | 
+| [[Dossiers]]         |
+|                      |     
 ---
+Keep both py files in the same folder // Run the Unix Johnny55 Simulator py file via Python (pygame simulator file)
 
-update: 151 total comands / 134 actual commands
+Fully immersive truth sim // Full Essays Repository and search mechanisms
+151 total comands / 134 actual commands
 Includes all essays dictionary. separate py file
 
 | COMMAND INPUT                          | CATEGORY            | CORE FUNCTION/EFFECT                                                                              | CODE REFERENCE          | #        |
