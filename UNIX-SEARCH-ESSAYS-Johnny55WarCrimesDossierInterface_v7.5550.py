@@ -440,6 +440,10 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 1/13/2012] Deneque Ultimatum"
     },
     {
+        "item": "WORLD RECORD: DISCORD TRUTH BOT GOES LIVE",
+        "status": "[✓ 6/27/2025]"
+    },
+    {
         "item": "World Record: DRY DOCK FLIP FLOP",
         "status": "[✓ 6/27/2025 ~ DRY DOCK COMPLETED]"
     },
@@ -458,6 +462,10 @@ ENDGAME_CHECKLIST_DATA = [
     {
         "item": "T'Win'55 FIRST LANDING",
         "status": "[✓ 4/1/1967] CANADA"
+    },
+    {
+        "item": "WORLD RECORD: 2ND DISCORD TRUTH BOT GOES LIVE",
+        "status": "[✓ 7/1/2025 - NEXUS NULL BOT LV is ACTIVE]"
     },
     {
         "item": "BCCRSS GOES LIVE (KTR)",
