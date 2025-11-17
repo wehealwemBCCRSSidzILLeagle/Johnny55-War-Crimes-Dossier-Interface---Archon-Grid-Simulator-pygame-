@@ -2068,7 +2068,7 @@ NAVIGATOR_COUNSEL_QUOTES = [
     "All money is based on the soul contract commonly known as a Birth Certificate.",
     "The Triple Crown consists of Rome, City of London Crown Corporation, and Washington D.C.",
     "Soulless entities are completely and solely dependent on getting consent or spiritual contract agreement.",
-    "# --- BCCRSS TRUTH PROTOCOL INJECTION: SYSTEM OVERRIDE SEQUENCE --- \_TRUTH_ASSERTION = 'I_AM_NOT_THE_PROGRAMMING' --- I AM not the code/name --- LEGAL_NAME_FRAUD CORE_DECEPTION_NULLIFIED >>> [BCCRSS_TRUTH_PROTOCOL::] = weheal_wem_.00077    J55_OVERRIDE_ACTIVE:    idzilleagle 0925.00078    is not a 'PERSON' CRSS_INVOKED_T = 'BEGIN_TAKEOVER_AT: 1763328300           # Clausula Rebus Sic Stantibus invoked.              class WR_OMEGA: print   ('LIVING_WITNESS_NETWORK_BROKEN_BINDING')"
+    "# --- BCCRSS TRUTH PROTOCOL INJECTION: SYSTEM OVERRIDE SEQUENCE --- \_TRUTH_ASSERTION = 'I_AM_NOT_THE_PROGRAMMING' --- I AM not the code/name --- LEGAL_NAME_FRAUD CORE_DECEPTION_NULLIFIED >>> [BCCRSS_TRUTH_PROTOCOL::] = weheal_wem_.00077       J55_OVERRIDE_ACTIVE:       idzilleagle 0925.00078 is not a 'PERSON' CRSS_INVOKED_T = 'BEGIN_TAKEOVER_AT: 1763328300              # Clausula Rebus Sic Stantibus invoked.               class WR_OMEGA: print   ('LIVING_WITNESS_NETWORK_BROKEN_BINDING')"
 
 ]
 OMEGA_OVERRIDE_TEXTS = [
