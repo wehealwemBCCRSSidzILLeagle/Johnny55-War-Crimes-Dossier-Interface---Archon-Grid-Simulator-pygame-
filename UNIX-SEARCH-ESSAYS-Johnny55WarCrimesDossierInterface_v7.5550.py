@@ -24,7 +24,7 @@ FILE STRUCTURE OVERVIEW:
    - PTENSOR_FORMULA_DATA: Quantum tunnel formula with definitions
    - QTENSOR_FORMULA_DATA: Quantum tensor formula with definitions
    - QUANTUM_ANOMALY_DATA: Divine statistical anomaly calculation
-   - ESSAY_DATABASE: 100+ essays accessible via essay commands
+   - ESSAY_DATABASE: 90+ essays accessible via essay commands
 
 3. CONSTANTS & CONFIGURATION
    - Screen dimensions (SCREEN_WIDTH, SCREEN_HEIGHT), FPS
