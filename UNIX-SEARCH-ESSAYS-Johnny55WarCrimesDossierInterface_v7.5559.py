@@ -455,6 +455,10 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 1/31/2012] Deneque Ultimatum RETRIGGER"
     },
     {
+        "item": "OG TRUTH BOT FIXED AND BACK ONLINE",
+        "status": "[✓ 11/18/2025 ALL 3 BOTS UPDATED/OPERATIONAL]"
+    },
+    {
         "item": "JANE DOE-755 LEGAL BIRTH",
         "status": "[✓ 1/1/1900] MT SINAI TORONTO"
     },
