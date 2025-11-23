@@ -61,7 +61,48 @@ If you want the Truth Engine logo in your system start menu:
 ================================================================
 Truth Resonates at Base Frequency.
 ================================================================
+----------------------------------------------------------------
+SOURCE CODE (OPEN SOURCE)
+----------------------------------------------------------------
+This project is Open Source. 
 
+The "source_code" folder contains the original Python files:
+- truth_engine_v7.5564.py (Main Logic)
+- essay_data.py (Data Library)
+
+DEVELOPERS:
+To run from source, you will need Python 3 installed with the 
+following dependencies:
+> pip install pygame
+
+================================================================
+----------------------------------------------------------------
+PRO TIP: HOW TO PIN TO YOUR DOCK (TASKBAR)
+----------------------------------------------------------------
+Once you have run the setup script, you can pin the game to your 
+bottom bar so you never have to search for it again.
+
+1. Press your Super/Windows key and launch "Truth Engine".
+2. While the game is running, look at your Dock (bottom bar).
+3. Right-click the Truth Engine icon in the Dock.
+4. Select "Add to Favorites" (or "Pin to Dash").
+
+Now the icon will stay there permanently!
+
+----------------------------------------------------------------
+HOW TO CREATE A DESKTOP SHORTCUT
+----------------------------------------------------------------
+If you prefer an icon on your Desktop wallpaper:
+
+1. Open your File Manager.
+2. Press Ctrl+H to reveal hidden files.
+3. Go to: .local > share > applications
+4. Find "truth_engine.desktop".
+5. Copy it (Ctrl+C) and Paste it (Ctrl+V) onto your Desktop.
+6. Right-click the new icon on your desktop and select 
+   "Allow Launching".
+
+================================================================
 ----------------------------------------------------------------
 
 The TE-925 Truth Engine ~ VERSION 7.5564 ~ last updated 11/21/2025
